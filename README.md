@@ -38,4 +38,4 @@ Agilista AND Scrum Master AND Product Owner Jr AND Pós-Graduando em Ciência de
 
 ### 📫 Vamos nos conectar!
 
-* LinkedIn: ([seu link](https://www.linkedin.com/in/genilson-do-nascimento-carvalho-j%C3%BAnior-03b58169/))
+* LinkedIn: (https://www.linkedin.com/in/genilson-do-nascimento-carvalho-j%C3%BAnior-03b58169)
