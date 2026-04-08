@@ -1,16 +1,43 @@
-## Hi there 👋
+## Opa 👋
 
-<!--
-**GenilsonQ/GenilsonQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Olá! Eu sou Genilson, também conhecido como Gege.
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia, produtos digitais e dados. Minha atuação combina visão estratégica, agilidade e análise orientada a dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Minha lógica profissional (Tabela Verdade - AND)
+
+Agilista AND Scrum Master AND Product Owner Jr AND Pós-Graduando em Ciência de Dados e Analytics (PUC-RJ) = 🚀 Valor entregue com qualidade
+
+| Agilista | Scrum Master | Product Owner Jr | Data Analytics | Resultado |
+|----------|-------------|------------------|----------------|----------|
+| ✅        | ✅           | ✅                | ✅              | 🚀 Alta performance |
+| ❌        | ✅           | ✅                | ✅              | ⚠️ Valor parcial |
+| ✅        | ❌           | ✅                | ✅              | ⚠️ Desalinhamento |
+| ✅        | ✅           | ❌                | ✅              | ⚠️ Falta de visão de produto |
+| ✅        | ✅           | ✅                | ❌              | ⚠️ Decisão sem dados |
+
+💡 **Regra:** Assim como no operador AND, o verdadeiro valor acontece quando todas as competências atuam juntas.
+
+---
+
+### 🚀 Sobre mim
+
+- 🔄 Agilista focado em melhoria contínua e eficiência de times
+- 🧩 Scrum Master facilitando entregas e removendo impedimentos
+- 📊 Product Owner Jr conectando negócio e tecnologia
+- 🎓 Pós-graduando em Ciência de Dados e Analytics (PUC-RJ)
+
+---
+
+### 🛠️ Interesses
+
+- Data Analytics & Data Science  
+- Agilidade e transformação digital  
+- Produtos digitais e inovação  
+- Melhoria contínua de processos  
+
+---
+
+### 📫 Vamos nos conectar!
+
+* LinkedIn: ([seu link](https://www.linkedin.com/in/genilson-do-nascimento-carvalho-j%C3%BAnior-03b58169/))
