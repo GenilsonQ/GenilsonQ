@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou Genilson, também conhecido como Gege.
+## 👋 Olá! Eu sou Genilson, também conhecido como Gege…Akutami?! Não, pera 😅
 
 Sou apaixonado por tecnologia, produtos digitais e dados. Minha atuação combina visão estratégica, agilidade e análise orientada a dados.
 
