@@ -4,7 +4,7 @@ Sou apaixonado por tecnologia, produtos digitais e dados. Minha atuação combin
 
 ### 🧠 Minha lógica profissional (Tabela Verdade - AND)
 
-Agilista AND Scrum Master AND Product Owner Jr AND Pós-Graduando em Ciência de Dados e Analytics (PUC-RJ) = 🚀 Valor entregue com qualidade
+Agilista AND Scrum Master AND Product Owner AND Pós-Graduando em Ciência de Dados e Analytics (PUC-RJ) = 🚀 Valor entregue com qualidade
 
 | Agilista | Scrum Master | Product Owner Jr | Data Analytics | Resultado |
 |----------|-------------|------------------|----------------|----------|
@@ -22,7 +22,7 @@ Agilista AND Scrum Master AND Product Owner Jr AND Pós-Graduando em Ciência de
 
 - 🔄 Agilista focado em melhoria contínua e eficiência de times
 - 🧩 Scrum Master facilitando entregas e removendo impedimentos
-- 📊 Product Owner Jr conectando negócio e tecnologia
+- 📊 Product Owner conectando negócio e tecnologia
 - 🎓 Pós-graduando em Ciência de Dados e Analytics (PUC-RJ)
 
 ---
